@@ -55,7 +55,6 @@ You should be set to send messages from this script now. :)
 
 * How do I get my facility ID - https://github.com/theoomoregbee/US-visa-appointment-notifier/issues/3
 * How do I get my schedule ID - https://github.com/theoomoregbee/US-visa-appointment-notifier/issues/8, https://github.com/theoomoregbee/US-visa-appointment-notifier/issues/7#issuecomment-1372565292
-* How to setup Telegram bot - https://github.com/theoomoregbee/US-visa-appointment-notifier/issues/5
 
 ## How to use it
 
