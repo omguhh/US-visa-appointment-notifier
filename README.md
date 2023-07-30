@@ -22,7 +22,7 @@ $ npm start
 ...
 ```
 
-![telegram notification sample](./chat_screenshot.png)
+![telegram notification sample](./chat_screenshot.jpg)
 
 
 ## How it works
